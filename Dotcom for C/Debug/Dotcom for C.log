@@ -1,0 +1,6 @@
+﻿  dotcom.c
+C:\Users\mitha\source\repos\Dotcom for C\Dotcom for C\dotcom.c(28,6): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+C:\Users\mitha\source\repos\Dotcom for C\Dotcom for C\dotcom.c(28,9): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+C:\Users\mitha\source\repos\Dotcom for C\Dotcom for C\dotcom.c(75,9): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+C:\Users\mitha\source\repos\Dotcom for C\Dotcom for C\dotcom.c(113): warning C4716: 'Make_Board': 값을 반환해야 합니다.
+  Dotcom for C.vcxproj -> C:\Users\mitha\source\repos\Dotcom for C\Debug\Dotcom for C.exe
